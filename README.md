@@ -9,3 +9,6 @@ Teste de LI 2024/2025.
   </main>
 </body>
 
+git pull origin main
+history > meusComandosReplit.txt
+cat meusComandosReplit.txt
